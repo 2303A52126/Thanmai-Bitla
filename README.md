@@ -1,13 +1,15 @@
 <h1 align="center">✨✨ Welcome! I'm <span style="color:#ff3cac;">Thanmai</span> ✨✨</h1>
 
 <h3 align="center">
-AI/ML Enthusiast | BTech CSE (AI & ML) | Passionate about Intelligent Systems
+  <span style="background: linear-gradient(to right, #ff3cac, #784ba0, #2b86c5); -webkit-background-clip: text; color: transparent;">
+    AI/ML Enthusiast | BTech CSE (AI & ML) | Passionate about Intelligent Systems
+  </span>
 </h3>
 
 <br>
 
 <p align="center">
-<img src="https://cdn-icons-png.flaticon.com/512/4140/4140048.png" width="320"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/4712/4712109.png" width="350">
 </p>
 
 ---
@@ -111,11 +113,11 @@ AI/ML, Deep Learning
 <p align="left">
 
 <a href="https://linkedin.com">
-<img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <a href="https://github.com">
-<img src="https://img.shields.io/badge/GitHub-%23121011?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-%23121011?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </p>
