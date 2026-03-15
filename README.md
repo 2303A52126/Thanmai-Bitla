@@ -12,49 +12,86 @@
   <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="380">
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=thanmai&label=Profile%20Views&color=ff3cac&style=flat"/>
-</p>
-
 ---
 
 # 🌈 About Me
 
 I am a **Computer Science student specializing in Artificial Intelligence and Machine Learning** who enjoys building practical AI solutions for real-world problems.
 
-I love exploring **Computer Vision, Machine Learning, and Intelligent Systems** while continuously improving my programming and problem-solving skills.
-
 ✨ Currently learning: **Deep Learning, Computer Vision, NLP**  
 💡 Interested in: **AI Research, ML Engineering, Intelligent Applications**  
-💼 Looking for: **AI/ML Internships & Collaborative Projects**  
-📍 Location: **Hanamkonda, India**
+💼 Looking for: **AI/ML Internships & Collaborative Projects**
 
 ---
 
-# 🔥 Badges That Represent Me
+# 🎓 Education
 
-<p align="left">
-
-<img src="https://img.shields.io/badge/AI%20Developer-%23ff0066?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Machine%20Learning-%2300c2ff?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=black"/>
-<img src="https://img.shields.io/badge/Computer%20Vision-%23784ba0?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/OpenCV-%232b86c5?style=for-the-badge"/>
-
-</p>
+**BTech – Computer Science Engineering (AI & ML)**  
+📅 **Aug 2023 – May 2027**  
+📊 **CGPA:** 8.5 / 10  
 
 ---
 
-# 🏆 Achievements
+# 🧠 Skills
 
-✨ Completed internship in **Artificial Intelligence & Machine Learning**  
-✨ Built multiple **AI-based projects**  
-✨ Active learner in **AI technologies and real-world implementations**  
-✨ Strong foundation in **Data Analysis & Machine Learning**
+**Programming:**  
+Python, Java  
+
+**Databases:**  
+SQL, PL/SQL  
+
+**Tools:**  
+Visual Studio Code, GitHub  
+
+**Coursework:**  
+Data Structures, Algorithms, Operating Systems, DBMS  
+
+**Web Technologies:**  
+HTML, CSS, JavaScript  
+
+**Machine Learning:**  
+Model Training, Evaluation, Optimization  
+
+**Other Skills:**  
+AI/ML, Deep Learning  
 
 ---
 
-# 🌈 Tech Stack
+# 🚀 Featured Projects
+
+## 🚗 Lane Detection System
+
+🟣 Detects road lane boundaries using computer vision  
+🔵 Uses **Canny Edge Detection, ROI Masking, and Hough Line Transform**  
+💗 Built with **Python + OpenCV**
+
+---
+
+## 👁 Object Detection with Audio Feedback
+
+🟡 Real-time object detection system designed to assist visually impaired users  
+🔴 Detects objects and provides audio alerts for better navigation  
+💙 Built with **YOLOv8 + OpenCV + Text-to-Speech**
+
+---
+
+## 🩺 Diabetes Prediction System
+
+🟠 Machine learning model to predict whether a person has diabetes  
+🟢 Uses patient health data such as glucose level, BMI, and age  
+💜 Built with **Python + Scikit-learn + Pandas**
+
+---
+
+## 🤖 NLP Chatbot
+
+🟤 Intelligent chatbot that understands user queries using natural language processing  
+🔵 Responds to user questions based on trained data and intent recognition  
+💗 Built with **Python + NLP + Machine Learning**
+
+---
+
+# 🔥 Tech Stack
 
 <p align="left">
 
@@ -71,32 +108,6 @@ I love exploring **Computer Vision, Machine Learning, and Intelligent Systems** 
 
 ---
 
-# 🚀 Featured Projects
-
-## 🚗 Lane Detection System
-
-🟣 Detects road lane boundaries using computer vision  
-🔵 Uses **Canny Edge Detection, ROI Masking, Hough Transform**  
-💗 Built with **Python + OpenCV**
-
----
-
-## 👁 Object Detection with Audio Feedback
-
-🟡 Real-time object detection for visually impaired users  
-🔴 Detects objects and provides audio alerts  
-💙 Built with **YOLOv8 + OpenCV + Text-to-Speech**
-
----
-
-## 💳 Credit Card Fraud Detection
-
-🟠 Machine learning model to detect fraudulent transactions  
-🟢 Uses classification algorithms for prediction  
-💜 Built with **Python + Scikit-learn**
-
----
-
 # 🌐 Connect With Me
 
 <p align="left">
@@ -108,24 +119,6 @@ I love exploring **Computer Vision, Machine Learning, and Intelligent Systems** 
 <a href="https://github.com">
   <img src="https://img.shields.io/badge/GitHub-%23121011?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-
-</p>
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=thanmai&show_icons=true&theme=tokyonight"/>
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanmai&layout=compact&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=thanmai&theme=tokyonight"/>
 
 </p>
 
